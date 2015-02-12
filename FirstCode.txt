@@ -1,1 +1,5 @@
-First code for GitHub
+***************************
+*  First code for GitHub  *
+***************************
+
+Better looking code
