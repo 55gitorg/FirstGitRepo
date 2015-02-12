@@ -1,1 +1,1 @@
-Test first code for GitHub
+First code for GitHub
